@@ -1,4 +1,4 @@
-# Tutorial followed by dcode on YouTube #
+# Tutorial followed by dcode on YouTube :watch: #
 [Build a Digital Clock with JavaScript - Beginner HTML, CSS & JS Tutorial by dcode](https://www.youtube.com/watch?v=JXHgDS8rIkM "Build a Digital Clock with JavaScript - Beginner HTML, CSS & JS Tutorial")
 * Learned how to implement a local digital clock
 * Learned how to utilize Class in Js
